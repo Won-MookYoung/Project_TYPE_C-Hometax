@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+837177,"Beverages and Catering",208199,41639.8,249839,CAD,2017-12-25
+662633,"Waste management services",119187,23837.4,143024,RON,2017-12-06

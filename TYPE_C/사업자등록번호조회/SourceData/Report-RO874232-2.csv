@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+247871,"IT Support",2017-02-26,68560,13712,82272,EUR
+906960,"Waste management services",2017-02-07,172925,34585,207510,RON
+498447,"Concierge Services",2017-02-18,228357,45671.4,274028,EUR
+683609,"Concierge Services",2017-02-19,187125,37425,224550,CAD
